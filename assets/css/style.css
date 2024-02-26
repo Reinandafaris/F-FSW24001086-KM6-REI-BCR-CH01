@@ -1,0 +1,17 @@
+:root {
+  --primary-dark-blue-01: #f1f3ff;
+  --primary-dark-blue-04: #0d28a6;
+  --primary-lime-green-04: #5cb85f;
+  --allert-warning: #f9cc00;
+  --allert-danger: #fa2c5a;
+  --neutral-01: #ffffff;
+  --neutral-02: #d0d0d0;
+  --neutral-05: #000000;
+}
+
+html,
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif !important;
+}
